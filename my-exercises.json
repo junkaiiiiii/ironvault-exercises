@@ -4,7 +4,8 @@
     "name": "Barbell Bench Press",
     "muscle": "Chest",
     "equipment": "Barbell",
-    "is_unilateral": false
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/barbell-bench-press.png"
   },
   {
     "id": "ex-002",
