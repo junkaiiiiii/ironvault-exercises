@@ -2286,5 +2286,13 @@
     "equipment": "Bodyweight",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/bear-crawl.webp"
+  },
+  {
+    "id": "ex-188",
+    "name": "Single Leg Press Calf Raise",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "is_unilateral": true,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/single-leg-press-calf-raise.webp"
   }
 ]
