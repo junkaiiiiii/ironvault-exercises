@@ -2294,5 +2294,21 @@
     "equipment": "Machine",
     "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/single-leg-press-calf-raise.webp"
+  },
+  {
+    "id": "ex-289",
+    "name": "Adductor Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/adductor-machine.webp"
+  },
+  {
+    "id": "ex-290",
+    "name": "Abductor Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/abductor-machine.webp"
   }
 ]
