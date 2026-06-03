@@ -456,7 +456,7 @@
     "equipment": "Barbell",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/t-bar-row.webp",
-    "machineBrandApplicable": true
+    "machineBrandApplicable": false
   },
   {
     "id": "ex-052",
@@ -1599,7 +1599,7 @@
     "equipment": "Other",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/lever-bar-rotation.webp",
-    "machineBrandApplicable": true
+    "machineBrandApplicable": false
   },
   {
     "id": "ex-179",
