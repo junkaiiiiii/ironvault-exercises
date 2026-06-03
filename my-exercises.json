@@ -456,7 +456,7 @@
     "equipment": "Barbell",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/t-bar-row.webp",
-    "machineBrandApplicable": false
+    "machineBrandApplicable": true
   },
   {
     "id": "ex-052",
@@ -1599,7 +1599,7 @@
     "equipment": "Other",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/lever-bar-rotation.webp",
-    "machineBrandApplicable": false
+    "machineBrandApplicable": true
   },
   {
     "id": "ex-179",
@@ -2583,7 +2583,7 @@
     "machineBrandApplicable": true
   },
   {
-    "id": "ex-289",
+    "id": "ex-288",
     "name": "Adductor Machine",
     "muscle": "Hamstrings & Glutes",
     "equipment": "Machine",
@@ -2592,12 +2592,39 @@
     "machineBrandApplicable": true
   },
   {
-    "id": "ex-290",
+    "id": "ex-289",
     "name": "Abductor Machine",
     "muscle": "Hamstrings & Glutes",
     "equipment": "Machine",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/abductor-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-290",
+    "name": "Machine Tricep Press",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/machine-tricep-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-291",
+    "name": "Single Arm Reverse Pec Dec",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "is_unilateral": true,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/single-arm-reverse-pec-dec.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-292",
+    "name": "Single Arm Rope Hammer Curl",
+    "muscle": "Biceps",
+    "equipment": "Cable",
+    "is_unilateral": true,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/single-arm-rope-hammer-curl.webp",
     "machineBrandApplicable": true
   }
 ]
