@@ -2626,5 +2626,320 @@
     "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/single-arm-rope-hammer-curl.webp",
     "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-293",
+    "name": "Back Extension Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/back-extension-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-294",
+    "name": "Rotary Torso Machine",
+    "muscle": "Abs & Core",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/rotary-torso-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-295",
+    "name": "Seated Dip Machine",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/seated-dip-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-296",
+    "name": "Plate Loaded Seated Dip",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plate-loaded-seated-dip.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-297",
+    "name": "Vertical Chest Press",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/vertical-chest-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-298",
+    "name": "Decline Machine Chest Press",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/decline-machine-chest-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-299",
+    "name": "Wide Chest Press Machine",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/wide-chest-press-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-300",
+    "name": "Iso-Lateral Chest Press",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-chest-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-301",
+    "name": "Iso-Lateral Incline Press",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-incline-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-302",
+    "name": "Iso-Lateral Decline Press",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-decline-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-303",
+    "name": "Iso-Lateral Shoulder Press",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-shoulder-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-304",
+    "name": "Machine Shrug",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/machine-shrug.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-305",
+    "name": "Plate Loaded Shrug",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plate-loaded-shrug.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-306",
+    "name": "Machine Low Row",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/machine-low-row.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-307",
+    "name": "Iso-Lateral Low Row",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-low-row.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-308",
+    "name": "Iso-Lateral Row",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-row.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-309",
+    "name": "Iso-Lateral High Row",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-high-row.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-310",
+    "name": "Iso-Lateral Front Lat Pulldown",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-front-lat-pulldown.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-311",
+    "name": "Assisted Chin-Up Machine",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/assisted-chin-up-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-312",
+    "name": "V-Squat Machine",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/v-squat-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-313",
+    "name": "Power Squat Machine",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/power-squat-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-314",
+    "name": "Super Squat Machine",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/super-squat-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-315",
+    "name": "Linear Hack Squat",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/linear-hack-squat.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-316",
+    "name": "Linear Leg Press",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/linear-leg-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-317",
+    "name": "Horizontal Leg Press",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/horizontal-leg-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-318",
+    "name": "Seated Leg Press",
+    "muscle": "Quads",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/seated-leg-press.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-319",
+    "name": "Kneeling Leg Curl",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/kneeling-leg-curl.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-320",
+    "name": "Hip Extension Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hip-extension-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-321",
+    "name": "Standing Glute Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/standing-glute-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-322",
+    "name": "Multi Hip Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/multi-hip-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-323",
+    "name": "Hip Flexor Machine",
+    "muscle": "Abs & Core",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hip-flexor-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-324",
+    "name": "Glute Kickback Machine",
+    "muscle": "Hamstrings & Glutes",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/glute-kickback-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-325",
+    "name": "Kneeling Ab Crunch Machine",
+    "muscle": "Abs & Core",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/kneeling-ab-crunch-machine.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-326",
+    "name": "Plate Loaded Ab Crunch",
+    "muscle": "Abs & Core",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plate-loaded-ab-crunch.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-327",
+    "name": "Tibia Dorsi Flexion Machine",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/tibia-dorsi-flexion-machine.webp",
+    "machineBrandApplicable": true
   }
 ]
