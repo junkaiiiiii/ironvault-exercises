@@ -2491,5 +2491,32 @@
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/tibia-dorsi-flexion-machine.webp",
     "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-328",
+    "name": "Cable Crunch (D-Handles)",
+    "muscle": "Others",
+    "equipment": "Cable",
+    "is_unilateral": false,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-crunch-dhandles.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-329",
+    "name": "Single Arm Pushdown",
+    "muscle": "Arms",
+    "equipment": "Cable",
+    "is_unilateral": true,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/singlearmpushdown.webp",
+    "machineBrandApplicable": true
+  },
+  {
+    "id": "ex-330",
+    "name": "Single Arm Machine Seated Row",
+    "muscle": "Back",
+    "equipment": "Machine",
+    "is_unilateral": true,
+    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/singlemachinerow.webp",
+    "machineBrandApplicable": true
   }
 ]
