@@ -2421,42 +2421,6 @@
     "machineBrandApplicable": true
   },
   {
-    "id": "ex-298",
-    "name": "Decline Machine Chest Press",
-    "muscle": "Chest",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/decline-machine-chest-press.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-301",
-    "name": "Iso-Lateral Incline Press",
-    "muscle": "Chest",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-incline-press.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-302",
-    "name": "Iso-Lateral Decline Press",
-    "muscle": "Chest",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-decline-press.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-303",
-    "name": "Iso-Lateral Shoulder Press",
-    "muscle": "Shoulders",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-shoulder-press.webp",
-    "machineBrandApplicable": true
-  },
-  {
     "id": "ex-304",
     "name": "Machine Shrug",
     "muscle": "Back",
@@ -2481,24 +2445,6 @@
     "equipment": "Machine",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/machine-low-row.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-310",
-    "name": "Iso-Lateral Front Lat Pulldown",
-    "muscle": "Back",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/iso-lateral-front-lat-pulldown.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-311",
-    "name": "Assisted Chin-Up Machine",
-    "muscle": "Back",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/assisted-chin-up-machine.webp",
     "machineBrandApplicable": true
   },
   {
@@ -2544,33 +2490,6 @@
     "equipment": "Machine",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hip-extension-machine.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-321",
-    "name": "Standing Glute Machine",
-    "muscle": "Legs",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/standing-glute-machine.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-322",
-    "name": "Multi Hip Machine",
-    "muscle": "Legs",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/multi-hip-machine.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-323",
-    "name": "Hip Flexor Machine",
-    "muscle": "Others",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hip-flexor-machine.webp",
     "machineBrandApplicable": true
   },
   {
