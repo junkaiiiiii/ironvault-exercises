@@ -2133,15 +2133,6 @@
     "machineBrandApplicable": false
   },
   {
-    "id": "ex-254",
-    "name": "Dragon Flag",
-    "muscle": "Others",
-    "equipment": "Bodyweight",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dragon-flag.webp",
-    "machineBrandApplicable": false
-  },
-  {
     "id": "ex-257",
     "name": "Dead Bug",
     "muscle": "Others",
@@ -2202,15 +2193,6 @@
     "equipment": "Barbell",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/power-clean.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-265",
-    "name": "Hang Clean",
-    "muscle": "Others",
-    "equipment": "Barbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hang-clean.webp",
     "machineBrandApplicable": false
   },
   {
