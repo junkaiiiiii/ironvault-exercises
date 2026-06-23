@@ -13,7 +13,7 @@
     "name": "Dumbbell Bench Press",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-bench-press.webp",
     "machineBrandApplicable": false
   },
@@ -40,7 +40,7 @@
     "name": "Incline Dumbbell Bench Press",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/incline-dumbbell-bench-press.webp",
     "machineBrandApplicable": false
   },
@@ -67,7 +67,7 @@
     "name": "Dumbbell Fly",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-fly.webp",
     "machineBrandApplicable": false
   },
@@ -76,7 +76,7 @@
     "name": "Incline Dumbbell Fly",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/incline-dumbbell-fly.webp",
     "machineBrandApplicable": false
   },
@@ -85,7 +85,7 @@
     "name": "Decline Dumbbell Fly",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/decline-dumbbell-fly.webp",
     "machineBrandApplicable": false
   },
@@ -211,7 +211,7 @@
     "name": "Hex Press",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hex-press.webp",
     "machineBrandApplicable": false
   },
@@ -220,7 +220,7 @@
     "name": "Svend Press",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/svend-press.webp",
     "machineBrandApplicable": false
   },
@@ -247,7 +247,7 @@
     "name": "Dumbbell Pullover",
     "muscle": "Chest",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-pullover.webp",
     "machineBrandApplicable": false
   },
@@ -445,7 +445,7 @@
     "name": "Dumbbell Row",
     "muscle": "Back",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-row.webp",
     "machineBrandApplicable": false
   },
@@ -463,7 +463,7 @@
     "name": "Chest Supported Dumbbell Row",
     "muscle": "Back",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/chest-supported-dumbbell-row.webp",
     "machineBrandApplicable": false
   },
@@ -661,7 +661,7 @@
     "name": "Dumbbell Shoulder Press",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-shoulder-press.webp",
     "machineBrandApplicable": false
   },
@@ -670,7 +670,7 @@
     "name": "Arnold Press",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/arnold-press.webp",
     "machineBrandApplicable": false
   },
@@ -775,10 +775,10 @@
   },
   {
     "id": "ex-091",
-    "name": "Cable Front Raise (D-Handle)",
+    "name": "Single Arm Cable Front Raise (D-Handle)",
     "muscle": "Shoulders",
     "equipment": "Cable",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-front-raise-d-handle.webp",
     "machineBrandApplicable": true
   },
@@ -796,7 +796,7 @@
     "name": "Dumbbell Front Raise",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-front-raise.webp",
     "machineBrandApplicable": false
   },
@@ -805,7 +805,7 @@
     "name": "Dumbbell Lateral Raise",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-lateral-raise.webp",
     "machineBrandApplicable": false
   },
@@ -814,7 +814,7 @@
     "name": "Seated Dumbbell Lateral Raise",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/seated-dumbbell-lateral-raise.webp",
     "machineBrandApplicable": false
   },
@@ -828,20 +828,11 @@
     "machineBrandApplicable": false
   },
   {
-    "id": "ex-097",
-    "name": "Cable Lateral Raise (D-Handle)",
-    "muscle": "Shoulders",
-    "equipment": "Cable",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-lateral-raise-d-handle.webp",
-    "machineBrandApplicable": true
-  },
-  {
     "id": "ex-098",
-    "name": "Cable Lateral Raise (Cuff Attachment)",
+    "name": "Single Arm Cable Lateral Raise (Cuff Attachment)",
     "muscle": "Shoulders",
     "equipment": "Cable",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-lateral-raise-cuff-attachment.webp",
     "machineBrandApplicable": true
   },
@@ -850,7 +841,7 @@
     "name": "Cable Lateral Raise Behind Body",
     "muscle": "Shoulders",
     "equipment": "Cable",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-lateral-raise-behind-body.webp",
     "machineBrandApplicable": true
   },
@@ -922,7 +913,7 @@
     "name": "Rear Delt Fly",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/rear-delt-fly.webp",
     "machineBrandApplicable": false
   },
@@ -931,25 +922,16 @@
     "name": "Incline Rear Delt Fly",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/incline-rear-delt-fly.webp",
     "machineBrandApplicable": false
   },
   {
-    "id": "ex-109",
-    "name": "Cable Rear Delt Fly (D-Handles)",
-    "muscle": "Shoulders",
-    "equipment": "Cable",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-rear-delt-fly-d-handles.webp",
-    "machineBrandApplicable": true
-  },
-  {
     "id": "ex-110",
-    "name": "Cable Rear Delt Fly Crossbody",
+    "name": "Cable Rear Delt Fly",
     "muscle": "Shoulders",
     "equipment": "Cable",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cable-rear-delt-fly-crossbody.webp",
     "machineBrandApplicable": true
   },
@@ -985,7 +967,7 @@
     "name": "Bent Over Rear Delt Row",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/bent-over-rear-delt-row.webp",
     "machineBrandApplicable": false
   },
@@ -994,7 +976,7 @@
     "name": "Chest Supported Rear Delt Row",
     "muscle": "Shoulders",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/chest-supported-rear-delt-row.webp",
     "machineBrandApplicable": false
   },
@@ -1057,7 +1039,7 @@
     "name": "Dumbbell Skullcrusher",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-skullcrusher.webp",
     "machineBrandApplicable": false
   },
@@ -1219,7 +1201,7 @@
     "name": "Tate Press",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/tate-press.webp",
     "machineBrandApplicable": false
   },
@@ -1228,7 +1210,7 @@
     "name": "Dumbbell Kickback",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-kickback.webp",
     "machineBrandApplicable": false
   },
@@ -1264,7 +1246,7 @@
     "name": "Dumbbell Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1273,7 +1255,7 @@
     "name": "Alternating Dumbbell Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/alternating-dumbbell-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1282,7 +1264,7 @@
     "name": "Incline Dumbbell Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/incline-dumbbell-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1300,7 +1282,7 @@
     "name": "Preacher Curl (Dumbbell)",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/preacher-curl-dumbbell.webp",
     "machineBrandApplicable": false
   },
@@ -1363,7 +1345,7 @@
     "name": "Hammer Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/hammer-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1381,7 +1363,7 @@
     "name": "Crossbody Hammer Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/crossbody-hammer-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1399,7 +1381,7 @@
     "name": "Zottman Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/zottman-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1408,7 +1390,7 @@
     "name": "Concentration Curl",
     "muscle": "Arms",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/concentration-curl.webp",
     "machineBrandApplicable": false
   },
@@ -1483,33 +1465,6 @@
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/reverse-cable-curl.webp",
     "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-173",
-    "name": "Farmer’s Carry",
-    "muscle": "Arms",
-    "equipment": "Dumbbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/farmers-carry.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-174",
-    "name": "Plate Pinch Hold",
-    "muscle": "Arms",
-    "equipment": "Other",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plate-pinch-hold.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-175",
-    "name": "Dead Hang",
-    "muscle": "Arms",
-    "equipment": "Bodyweight",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dead-hang.webp",
-    "machineBrandApplicable": false
   },
   {
     "id": "ex-176",
@@ -1642,7 +1597,7 @@
     "name": "Dumbbell Split Squat",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-split-squat.webp",
     "machineBrandApplicable": false
   },
@@ -1651,7 +1606,7 @@
     "name": "Walking Lunge",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/walking-lunge.webp",
     "machineBrandApplicable": false
   },
@@ -1660,7 +1615,7 @@
     "name": "Reverse Lunge",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/reverse-lunge.webp",
     "machineBrandApplicable": false
   },
@@ -1678,7 +1633,7 @@
     "name": "Step-Up",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/step-up.webp",
     "machineBrandApplicable": false
   },
@@ -1687,7 +1642,7 @@
     "name": "Goblet Squat",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/goblet-squat.webp",
     "machineBrandApplicable": false
   },
@@ -1743,15 +1698,6 @@
     "equipment": "Bodyweight",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/spanish-squat.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-202",
-    "name": "Cyclist Squat",
-    "muscle": "Legs",
-    "equipment": "Barbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/cyclist-squat.webp",
     "machineBrandApplicable": false
   },
   {
@@ -1822,7 +1768,7 @@
     "name": "Dumbbell Romanian Deadlift",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-romanian-deadlift.webp",
     "machineBrandApplicable": false
   },
@@ -1975,7 +1921,7 @@
     "name": "Curtsy Lunge",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/curtsy-lunge.webp",
     "machineBrandApplicable": false
   },
@@ -2047,7 +1993,7 @@
     "name": "Dumbbell Calf Raise",
     "muscle": "Legs",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-calf-raise.webp",
     "machineBrandApplicable": false
   },
@@ -2058,24 +2004,6 @@
     "equipment": "Other",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/tibialis-raise.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-238",
-    "name": "Farmer Walk on Toes",
-    "muscle": "Legs",
-    "equipment": "Dumbbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/farmer-walk-on-toes.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-239",
-    "name": "Jump Rope",
-    "muscle": "Legs",
-    "equipment": "Other",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/jump-rope.webp",
     "machineBrandApplicable": false
   },
   {
@@ -2155,7 +2083,7 @@
     "name": "Weighted Sit-Up",
     "muscle": "Others",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/weighted-sit-up.webp",
     "machineBrandApplicable": false
   },
@@ -2164,7 +2092,7 @@
     "name": "Russian Twist",
     "muscle": "Others",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/russian-twist.webp",
     "machineBrandApplicable": false
   },
@@ -2211,24 +2139,6 @@
     "equipment": "Bodyweight",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dragon-flag.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-255",
-    "name": "Plank",
-    "muscle": "Others",
-    "equipment": "Bodyweight",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plank.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-256",
-    "name": "Side Plank",
-    "muscle": "Others",
-    "equipment": "Bodyweight",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/side-plank.webp",
     "machineBrandApplicable": false
   },
   {
@@ -2283,15 +2193,6 @@
     "equipment": "Other",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/stability-ball-crunch.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-263",
-    "name": "Suitcase Carry",
-    "muscle": "Others",
-    "equipment": "Dumbbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/suitcase-carry.webp",
     "machineBrandApplicable": false
   },
   {
@@ -2362,44 +2263,8 @@
     "name": "Dumbbell Thruster",
     "muscle": "Others",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/dumbbell-thruster.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-272",
-    "name": "Farmer’s Walk",
-    "muscle": "Others",
-    "equipment": "Dumbbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/farmers-walk.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-273",
-    "name": "Sled Push",
-    "muscle": "Others",
-    "equipment": "Other",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/sled-push.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-274",
-    "name": "Sled Pull",
-    "muscle": "Others",
-    "equipment": "Other",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/sled-pull.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-275",
-    "name": "Battle Rope Slams",
-    "muscle": "Others",
-    "equipment": "Other",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/battle-rope-slams.webp",
     "machineBrandApplicable": false
   },
   {
@@ -2416,17 +2281,8 @@
     "name": "Turkish Get-Up",
     "muscle": "Others",
     "equipment": "Dumbbell",
-    "is_unilateral": false,
+    "is_unilateral": true,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/turkish-get-up.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-278",
-    "name": "Sandbag Carry",
-    "muscle": "Others",
-    "equipment": "Other",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/sandbag-carry.webp",
     "machineBrandApplicable": false
   },
   {
@@ -2472,33 +2328,6 @@
     "equipment": "Bodyweight",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/broad-jump.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-284",
-    "name": "Zercher Carry",
-    "muscle": "Others",
-    "equipment": "Barbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/zercher-carry.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-285",
-    "name": "Overhead Carry",
-    "muscle": "Others",
-    "equipment": "Barbell",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/overhead-carry.webp",
-    "machineBrandApplicable": false
-  },
-  {
-    "id": "ex-286",
-    "name": "Bear Crawl",
-    "muscle": "Others",
-    "equipment": "Bodyweight",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/bear-crawl.webp",
     "machineBrandApplicable": false
   },
   {
@@ -2589,15 +2418,6 @@
     "equipment": "Machine",
     "is_unilateral": false,
     "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plate-loaded-seated-dip.webp",
-    "machineBrandApplicable": true
-  },
-  {
-    "id": "ex-297",
-    "name": "Plate Loaded Chest Press Machine",
-    "muscle": "Chest",
-    "equipment": "Machine",
-    "is_unilateral": false,
-    "image": "https://raw.githubusercontent.com/junkaiiiiii/ironvault-exercises/main/images/plate-loaded-chest-press-machine.webp",
     "machineBrandApplicable": true
   },
   {
